@@ -1,7 +1,7 @@
 {
   "versionCode": 2,
   "versionName": "1.0.1",
-  "downloadUrl": "https://fastly.jsdelivr.net/gh/YHcloud-space/hcquick-data@latest/hcquick_v1.0.1.apk",
+  "downloadUrl": "https://fastly.jsdelivr.net/gh/YHcloud-space/hcquick-data@latest/hcquick_data.apk",
   "updateLog": "修复若干问题，优化体验。",
   "forceUpdate": false
 }
