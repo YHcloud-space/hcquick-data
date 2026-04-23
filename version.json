@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.4",
-  "downloadUrl": "https://data.cloudgj.cn/hcquick_v1.0.4.apk",
-  "updateLog": "下载失败陷入死循环！！",
+  "versionCode": 3,
+  "versionName": "1.0.3",
+  "downloadUrl": "https://data.cloudgj.cn/hcquick_v1.0.3.apk",
+  "updateLog": "发布前夜，测试OTA功能",
   "forceUpdate": false
 }
