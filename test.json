@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.3",
-  "downloadUrl": "https://data.cloudgj.cn/hcquick_v1.0.3.apk",
-  "updateLog": "1.0.3 更新内容：\n\n1. 所有备注不记录日志：规格、材料、标签的备注修改静默进行，不触发红点\n2. 强制同步二次确认弹窗：有本地修改日志时，弹出确认对话框显示修改摘要，用户手动确认后才执行覆盖\n3. 标签类备注空值不覆盖本地：官方备注非空则覆盖，空值则保留本地备注\n4. 长文本对话框自适应高度：更新日志和强制同步确认弹窗最大高度为屏幕80%，超出部分可滚动\n5. 连续点击5次APK版本号强制清理OTA：设置页面底部APK版本号连续点击5次，弹出确认框可清除所有OTA标记\n6. 长按APK版本号切换测试/正式环境：设置页面底部APK版本号长按3秒，可切换测试/正式检测地址\n7. 修复促销标签编辑保存问题",
+  "versionCode": 4,
+  "versionName": "1.0.4",
+  "downloadUrl": "https://data.cloudgj.cn/hcquick_v1.0.4.apk",
+  "updateLog": "1.优化更新提示；\n2.优化数字键盘在促销标签对话框的弹出逻辑",
   "forceUpdate": false
 }
