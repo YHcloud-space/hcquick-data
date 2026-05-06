@@ -1,7 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.4",
-  "downloadUrl": "https://data.cloudgj.cn/hcquick_v1.0.4.apk",
-  "updateLog": "1.优化更新提示；\n2.优化数字键盘在促销标签对话框的弹出逻辑",
+  "versionCode": 5,
+  "versionName": "1.0.5",
+  "downloadUrl": "https://data.cloudgj.cn/hcquick_v1.0.5.apk",
+  "updateLog": "1.优化本地私有备注/点击率排行的自增id匹配修改为brand_id + name 匹配（自增ID可能导致key 碰撞，导致 A 材料的备注被错误恢复到 B 材料）；
+  \n2.弹出促销标签对话框不弹出数字键盘",
   "forceUpdate": false
 }
